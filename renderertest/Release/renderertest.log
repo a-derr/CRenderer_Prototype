@@ -1,0 +1,44 @@
+﻿  Main.c
+C:\Dev\renderertest\renderertest\renderertest\Main.c(55,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Dev\renderertest\renderertest\renderertest\Main.c(57,2): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Dev\renderertest\renderertest\renderertest\Main.c(106,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(108,42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(110,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(112,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(114,81): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(118,81): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(131,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(231,50): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(232,51): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(238,50): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(239,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(281,26): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(281,48): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(282,26): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(282,48): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(283,26): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(283,48): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(290,26): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(290,48): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(291,26): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(291,48): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(292,26): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(292,48): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(300,26): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(300,48): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(301,26): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(301,48): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(302,26): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(302,48): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(309,39): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(309,65): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(310,39): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(310,65): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(311,39): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Dev\renderertest\renderertest\renderertest\Main.c(311,65): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  2 of 92 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  renderertest.vcxproj -> C:\Dev\renderertest\renderertest\Release\renderertest.exe
